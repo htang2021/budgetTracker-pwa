@@ -17,15 +17,15 @@ AS AN avid traveler
 
 ## Design Mock-Up
 
-![](assets/images/06-server-side-apis-homework-demo.png)
+![](assets/images/19-pwa-homework-demo-01.png)
 
 ## Github Repository
 All files and changes made are located on github at the following location:
 
 https://github.com/htang2021/budgetTracker-pwa
 
-## Application Live URL
-https://htang2021.github.io/weather-dashboard/
+## Application Live URL on Heroku
+https://
 
 ## Deploy Your Project
 This instruction below assumes that a project and repo were created early on and that they are already linked.
