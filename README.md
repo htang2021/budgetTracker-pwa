@@ -25,7 +25,7 @@ All files and changes made are located on github at the following location:
 https://github.com/htang2021/budgetTracker-pwa
 
 ## Application Live URL on Heroku
-https://
+https://htang-moneyapp.herokuapp.com/
 
 ## Deploy Your Project
 This instruction below assumes that a project and repo were created early on and that they are already linked.
