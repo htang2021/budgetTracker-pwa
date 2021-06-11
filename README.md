@@ -27,15 +27,12 @@ https://github.com/htang2021/budgetTracker-pwa
 ## Application Live URL on Heroku
 https://htang-moneyapp.herokuapp.com/
 
-## Deploy Your Project
-This instruction below assumes that a project and repo were created early on and that they are already linked.
-1. Login to github and go to the project repo (https://github.com/htang2021/weather-dashboard).
+## Testing Guideline
+Note - Chrome is used in the guideline here.
+- Go to the deployed [link](https://htang-moneyapp.herokuapp.com/) and input a few transactions to establish a working baseline
+- Disable internet connectivity and without refreshing the page, make a few transactions.  Inspect the page and by going to the Application tab 
 
-2. Click on "Settings" in the repo menu.
+## Contact
+Please feel free to contact [me](mailto:hungtang@hotmail.com) with any questions.
 
-3. Scroll down to the GitHub Pages section and select branch where the site will be built from, will either be "master" or "main" and with folder in /root.  Click on "Save" button next to it.
-
-4. Wait for a minute or two, GitHub will return a live site URL:
-https://htang2021.github.io/weather-dashboard/
-
-End of README.md - updated by Hung Tang on 3/13/21
+End of README.md - updated by Hung Tang on 6/11/21
