@@ -1,6 +1,7 @@
 const FILES_TO_CACHE = [
     "./index.html",
-    "./js/index.js"
+    "./js/index.js",
+    "./js/idb.js"
   ];
 
 const APP_PREFIX = 'MoneyApp-';
